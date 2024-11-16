@@ -1,0 +1,1 @@
+/Users/afung/.dotfiles/config/nvim/lua/config/lazy.lua
