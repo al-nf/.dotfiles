@@ -9,7 +9,7 @@
     },
     "modules": [
         {
-            "type": "custom",
+            "type": "iterm",
             "format": "\u001b[36m    コンピューター"
         },
         {
