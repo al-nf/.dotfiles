@@ -1,1 +1,4 @@
-/Users/afung/.dotfiles/config/nvim/lua/plugins/windline.lua
+return
+{
+    "windwp/windline.nvim"
+}
