@@ -1,0 +1,24 @@
+[[main]] pre-initializing
+[[main]] cwd: /usr/lib/olympus
+[[main]] src: /usr/lib/olympus
+[[main]] storageDir: /home/afung/.config/Olympus
+[[main]] [finder] found Celeste.exe root /home/afung/Games/Celeste/orig
+[[main]] [finder] found Celeste.exe root /home/afung/Games/Celeste/orig
+[[main]] pre-initialized
+[[thread#0>sharp.lua:16<sharp.lua:502]] [sharp init] starting thread
+[[thread#0>sharp.lua:16<sharp.lua:502]] [sharp init] starting subprocess /usr/lib/olympus/sharp/Olympus.Sharp.exe 71846
+[[thread#0>sharp.lua:16<sharp.lua:502]] [sharp init] logging to /home/afung/.config/Olympus/log-sharp.txt
+[[thread#0>sharp.lua:16<sharp.lua:502]] [sharp init] reading init
+[[thread#0>sharp.lua:16<sharp.lua:502]] [sharp init] read init table: 0x72f0d3f6e1b0
+[[thread#0>sharp.lua:16<sharp.lua:502]] [sharp init] startime 1732421731.5678
+[[main]] [finder] found Celeste.exe root /home/afung/Games/Celeste/orig
+[[main]] love2d version 11.5.0.Mysterious Mysteries
+[[main]] SDL2 version 2.30.9
+[[main]] Olympus version 24.02.25.05
+[[thread#3<scenes/mainmenu.lua:239]] [finder] steam root /home/afung/.local/share/Steam <same>
+[[thread#3<scenes/mainmenu.lua:239]] [finder] steam common /home/afung/.local/share/Steam/steamapps/common
+[[thread#3<scenes/mainmenu.lua:239]] [finder] steam root /home/afung/.local/share/Steam <same>
+[[thread#3<scenes/mainmenu.lua:239]] [finder] itch db /home/afung/.config/itch/db/butler.db false
+[[thread#3<scenes/mainmenu.lua:239]] [finder] lutris db /home/afung/.local/share/lutris/pga.db <same>
+[[thread#3<scenes/mainmenu.lua:239]] [finder] lutris root /home/afung/.config/lutris false
+[[thread#3<scenes/mainmenu.lua:239]] [finder] legendary root /home/afung/.config/legendary false

@@ -1,0 +1,36 @@
+{
+  "csd":false,
+  "theme":"default",
+  "bg":0,
+  "quality":{
+    "bg":true,
+    "id":"high",
+    "bgBlur":true,
+    "bgSnow":true
+  },
+  "overlay":1,
+  "parallax":1,
+  "mapeditor":"loenn",
+  "ahorn":{
+    "theme":"",
+    "vhdMountPath":"",
+    "rootPath":"",
+    "vhdPath":"",
+    "mode":"local"
+  },
+  "loennRootPath":"/home/afung/.config/Olympus/loenn",
+  "loennInstalledVersion":"",
+  "updateModsOnStartup":"none",
+  "installs":[{
+      "name":"manual (#1)",
+      "path":"/home/afung/Games/Celeste/orig",
+      "type":"manual"
+    }],
+  "useOpenGL":"disabled",
+  "closeAfterOneClickInstall":"disabled",
+  "extradata":[],
+  "updates":"stable",
+  "vsync":true,
+  "lastrun":-1,
+  "install":1
+}
