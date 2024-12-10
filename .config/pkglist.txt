@@ -26,6 +26,7 @@ firefox
 flatpak
 fortune-mod
 gamescope
+gdb
 gimp
 git
 github-cli
