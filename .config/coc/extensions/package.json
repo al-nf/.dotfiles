@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "coc-prettier": ">=9.3.2"
+    "coc-prettier": ">=9.3.2",
+    "coc-rust-analyzer": ">=0.77.5"
   }
 }
