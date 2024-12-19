@@ -74,7 +74,6 @@ alias pl='$aurhelper -Qs' # list installed package
 alias pa='$aurhelper -Ss' # list available package
 alias pc='$aurhelper -Sc' # remove unused cache
 alias po='$aurhelper -Qtdq | $aurhelper -Rns -' # remove unused packages, also try > $aurhelper -Qqd | $aurhelper -Rsu --print -
-alias clear='clear && fastfetch'
 alias vim='nvim'
 alias neo='neo -D'
 alias pipes='pipes.sh -t 3'

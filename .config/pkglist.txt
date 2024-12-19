@@ -13,6 +13,7 @@ chaotic-keyring
 chaotic-mirrorlist
 cliphist
 code
+cpio
 discord-canary
 dotnet-sdk
 dunst
@@ -25,6 +26,7 @@ figlet
 firefox
 flatpak
 fortune-mod
+gamemode
 gamescope
 gdb
 gimp
@@ -54,9 +56,11 @@ libnotify
 libva-intel-driver
 linux
 linux-firmware
+lldb
 lolcat
 luarocks
 lutris
+man-db
 mangohud
 nano
 neofetch
